@@ -4,8 +4,8 @@ Discord bot that allows users to create bets for points that can be exchanged fo
 #### Live Demo
 ![discordbot](https://user-images.githubusercontent.com/49249379/122614436-a476a000-d054-11eb-8b46-7cc32bf68583.gif)
 
-#### Repository
-https://github.com/alext111/Discord-Betting-Bot  
+#### Repository Link
+[https://github.com/alext111/Discord-Betting-Bot](https://github.com/alext111/Discord-Betting-Bot)  
 
 ---
 
@@ -15,13 +15,13 @@ App allows for simulation of purchasing cryptocurrency while tracking changes in
 #### Preview
 ![cryptotable](https://user-images.githubusercontent.com/49249379/122615949-6dee5480-d057-11eb-9567-1a0b3f910d83.PNG)
 
-#### Repository
-https://github.com/alext111/Cryptocurrency-Tracker  
+#### Repository Link
+[https://github.com/alext111/Cryptocurrency-Tracker](https://github.com/alext111/Cryptocurrency-Tracker)  
 
 ---
 
 ### Weather App
 Web app created with Django and Python that can be used to search for weather info in specific cities using openweathermap public API and can upload weather data to MySQL or PostgreSQL databases. The current configuration uses PostgreSQL for the web app. Database weather history can be viewed in the web app as a table.
 
-#### Repository
-https://github.com/alext111/weather-system
+#### Repository Link
+[https://github.com/alext111/weather-system](https://github.com/alext111/weather-system)
