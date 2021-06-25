@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+### Discord Betting Bot
+Discord bot that allows users to create bets for points that can be exchanged for server prizes. Prizes include server actions interacting with users or trading cards created using PokeApi. Bot data is stored in an AWS database using MondoDB with NoSQL.
 
-You can use the [editor on GitHub](https://github.com/alext111/alext111/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#### Live Demo
+![discordbot](https://user-images.githubusercontent.com/49249379/122614436-a476a000-d054-11eb-8b46-7cc32bf68583.gif)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Repository
+https://github.com/alext111/Discord-Betting-Bot  
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Cryptocurrency Tracker
+App allows for simulation of purchasing cryptocurrency while tracking changes in value based on deposits and withdrawals. Data is obtained from CoinGecko public API and is stored in personal PostgreSQL database. Web app uses Django framework with Python utilities.
 
-```markdown
-Syntax highlighted code block
+#### Preview
+![cryptotable](https://user-images.githubusercontent.com/49249379/122615949-6dee5480-d057-11eb-9567-1a0b3f910d83.PNG)
 
-# Header 1
-## Header 2
-### Header 3
+#### Repository
+https://github.com/alext111/Cryptocurrency-Tracker  
 
-- Bulleted
-- List
+---
 
-1. Numbered
-2. List
+### Weather App
+Web app created with Django and Python that can be used to search for weather info in specific cities using openweathermap public API and can upload weather data to MySQL or PostgreSQL databases. The current configuration uses PostgreSQL for the web app. Database weather history can be viewed in the web app as a table.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alext111/alext111/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### Repository
+https://github.com/alext111/weather-system
