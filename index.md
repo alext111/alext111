@@ -1,3 +1,14 @@
+### Password Manager
+Web app created with a MERN stack that allows users to generate, encrypt, and store passwords with MongoDB. Passwords are encrypted using AES and can be accessed through the front end.
+
+#### Live Demo
+![password-manager](https://user-images.githubusercontent.com/49249379/130847863-77bf3783-5f74-4d55-9220-391245cb001f.gif)
+
+#### Repository Link
+[https://github.com/alext111/password-manager](https://github.com/alext111/password-manager)
+
+---
+
 ### Discord Betting Bot
 Discord bot that allows users to create bets for points that can be exchanged for server prizes. Prizes include server actions interacting with users or trading cards created using PokeApi. Bot data is stored in an AWS database using MondoDB with NoSQL.
 
