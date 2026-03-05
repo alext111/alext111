@@ -2,7 +2,7 @@
 Web app created with a MERN stack that allows users to generate, encrypt, and store passwords with MongoDB. Passwords are encrypted using AES and can be accessed through the front end.
 
 #### Live Demo
-![password-manager](https://user-images.githubusercontent.com/49249379/130858800-18b1f185-cc2c-45fa-a4aa-5650e639e338.gif)
+![password-manager]((https://github.com/alext111/password-manager/blob/main/client/src/pmdemo.gif))
 
 #### Repository Link
 [https://github.com/alext111/password-manager](https://github.com/alext111/password-manager)
