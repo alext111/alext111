@@ -16,7 +16,7 @@ This application allows for users to generate and manage passwords that are encr
     Includes automated tests using Jest
 
 #### Live Demo
-![pmdemo](<img width="800" height="213" alt="pmdemo" src="https://github.com/user-attachments/assets/49663b6f-1192-4f1b-83e3-3e11f8959ee0" />)
+![pmdemo](./pmdemo.gif)
 
 
 #### Repository Link
