@@ -1,19 +1,16 @@
 ### Password Manager
-This application allows for users to generate and manage passwords that are encrypted and stored into MongoDB. Passwords are encrypted using AES encryption which can be manually chosen by the user if desired.
+A full-stack password manager built with the MERN stack (MongoDB, Express, React, Node.js) that demonstrates secure credential storage concepts, REST API design, testing, and cloud deployment practices.
 
-### Frontend
+### Key Features
 
-    Built with React
-    Handles UI, form input, and client-side logic
-    Communicates with the backend via HTTP API calls
-
-### Backend
-
-    Built with Node.js and Express
-    Exposes REST API endpoints
-    Handles password generation, encryption, and decryption
-    Uses MongoDB for data storage
-    Includes automated tests using Jest
+    Secure password hashing (bcrypt)
+    AES encryption for stored credentials (with IV + salt)
+    Full CRUD operations
+    JWT User authentication
+    REST API architecture
+    Protected API routes
+    CI/CD pipeline with automated testing
+    Dockerized development environment
 
 #### Live Demo
 ![pmdemo](./pmdemo.gif)
