@@ -20,6 +20,21 @@ A full-stack password manager built with the MERN stack (MongoDB, Express, React
 [https://github.com/alext111/password-manager](https://github.com/alext111/password-manager)
 
 ---
+### CMAPSS Predictive Maintenance [WIP]
+A machine learning project to predict the Remaining Useful Life (RUL) of turbofan jet engines using NASA's CMAPSS dataset.
+
+### Key Contents
+
+    Exploratory data analysis
+    XGBoost regressor model
+    LSTM model [WIP]
+    Amazon Chronos [WIP]
+    Dashboard [WIP]
+
+#### Repository Link
+[https://github.com/alext111/CMAPSS-Predictive-Maintenance](https://github.com/alext111/CMAPSS-Predictive-Maintenance)
+
+---
 
 ## Archived Projects
 Note: These are older educational projects. They are preserved here for personal reference and do not reflect my current coding standards.
