@@ -24,8 +24,6 @@ A full-stack password manager built with the MERN stack (MongoDB, Express, React
 ## Archived Projects
 Note: These are older educational projects. They are preserved here for personal reference and do not reflect my current coding standards.
 
----
-
 ### Discord Betting Bot
 Discord bot that allows users to create bets for points that can be exchanged for server prizes. Prizes include server actions interacting with users or trading cards created using PokeApi. Bot data is stored in an AWS database using MondoDB with NoSQL.
 
