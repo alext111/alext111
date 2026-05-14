@@ -1,7 +1,10 @@
 ### Password Manager
 A full-stack password manager built with the MERN stack (MongoDB, Express, React, Node.js) that demonstrates secure credential storage concepts, REST API design, testing, and cloud deployment practices.
 
-### Key Features
+#### Deployed App Link
+![a-tran.dev/](a-tran.dev/)
+
+#### Key Features
 
     Secure password hashing (bcrypt)
     AES encryption for stored credentials (with IV + salt)
@@ -23,13 +26,15 @@ A full-stack password manager built with the MERN stack (MongoDB, Express, React
 ### CMAPSS Predictive Maintenance [WIP]
 A machine learning project to predict the Remaining Useful Life (RUL) of turbofan jet engines using NASA's CMAPSS dataset.
 
-### Key Contents
+#### Dashboard Link
+![https://cmapss-predictive-maintenance.streamlit.app/](https://cmapss-predictive-maintenance.streamlit.app/)
+
+#### Key Contents
 
     Exploratory data analysis
     XGBoost regressor model
-    LSTM model [WIP]
-    Amazon Chronos [WIP]
-    Dashboard [WIP]
+    LSTM sequence model
+    Interactive streamlit dashboard
 
 #### Repository Link
 [https://github.com/alext111/CMAPSS-Predictive-Maintenance](https://github.com/alext111/CMAPSS-Predictive-Maintenance)
