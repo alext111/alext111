@@ -27,7 +27,7 @@ A full-stack password manager built with the MERN stack (MongoDB, Express, React
 A machine learning project to predict the Remaining Useful Life (RUL) of turbofan jet engines using NASA's CMAPSS dataset.
 
 #### Dashboard Link
-[!(https://cmapss-predictive-maintenance.streamlit.app/)](https://cmapss-predictive-maintenance.streamlit.app/)
+[![https://cmapss-predictive-maintenance.streamlit.app/](https://cmapss-predictive-maintenance.streamlit.app/)](https://cmapss-predictive-maintenance.streamlit.app/)
 
 #### Key Contents
 
