@@ -2,7 +2,7 @@
 A full-stack password manager built with the MERN stack (MongoDB, Express, React, Node.js) that demonstrates secure credential storage concepts, REST API design, testing, and cloud deployment practices.
 
 #### Deployed App Link
-![a-tran.dev/](a-tran.dev/)
+[![a-tran.dev/](a-tran.dev/)](https://www.a-tran.dev/)
 
 #### Key Features
 
@@ -27,7 +27,7 @@ A full-stack password manager built with the MERN stack (MongoDB, Express, React
 A machine learning project to predict the Remaining Useful Life (RUL) of turbofan jet engines using NASA's CMAPSS dataset.
 
 #### Dashboard Link
-![https://cmapss-predictive-maintenance.streamlit.app/](https://cmapss-predictive-maintenance.streamlit.app/)
+[!(https://cmapss-predictive-maintenance.streamlit.app/)](https://cmapss-predictive-maintenance.streamlit.app/)
 
 #### Key Contents
 
