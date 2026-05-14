@@ -9,7 +9,7 @@ A full-stack password manager built with the MERN stack (MongoDB, Express, React
     Secure password hashing (bcrypt)
     AES encryption for stored credentials (with IV + salt)
     Full CRUD operations
-    JWT User authentication
+    JWT user authentication
     REST API architecture
     Protected API routes
     CI/CD pipeline with automated testing
