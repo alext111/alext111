@@ -40,6 +40,21 @@ A machine learning project to predict the Remaining Useful Life (RUL) of turbofa
 [https://github.com/alext111/CMAPSS-Predictive-Maintenance](https://github.com/alext111/CMAPSS-Predictive-Maintenance)
 
 ---
+## Academic Projects
+Note: Projects with private repositories can be accessed upon request
+
+### QueueUp
+A full-stack Java web application built using Gradle to host and play music content designed for social settings. 
+
+#### Key Features
+
+    Integrated public MusicBrainz PostgreSQL database for song information retrieval
+    SQL query optimization on 30GB dataset
+    Test suite using JUnit for backend and API functionality
+    Interactive frontend built using React
+    Server hosting on virtual private server
+
+---
 
 ## Archived Projects
 Note: These are older educational projects. They are preserved here for personal reference and do not reflect my current coding standards.
